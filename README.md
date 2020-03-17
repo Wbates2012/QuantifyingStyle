@@ -1,4 +1,4 @@
-# QuantifyingStyle
+# Quantifying Style
 By Will Bates\
 16 March 2020\
 Based on studies by Jason Bailey and Lev Manovich
