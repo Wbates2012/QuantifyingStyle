@@ -13,3 +13,6 @@ Contains configuration parameters, naming directories to which data is pushed an
 
 ## Src
 Contains intermediate python files defining aspects of the project.
+
+## Report
+Qualitative description of the performed analysis, including assessments of the prior studies and conclusions on the effectiveness of my alterations.
