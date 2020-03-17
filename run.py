@@ -88,7 +88,7 @@ def main(targets):
         model2_pca.driver(**cfg)     
         
         cfg = load_params(test_pca_viz_params)
-        viz_model1.visualize(**cfg)
+        viz_model2.visualize(**cfg)
     
     return
 
