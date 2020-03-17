@@ -8,10 +8,10 @@ Can we prove or disprove the artistic judgement of a human viewer numerically, a
 ## run.py
 File used to run the project in pieces specified by parameters.
 
-## Config
+## config
 Contains configuration parameters, naming directories to which data is pushed and pulled, as well as the scope of the project.
 
-## Src
+## src
 Contains intermediate python files defining aspects of the project.
 
 ## Report.pdf
