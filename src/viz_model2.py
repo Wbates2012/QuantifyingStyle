@@ -31,8 +31,7 @@ def visualize(indir=None, outdir=None):
     for i in range(len(painting_feats.image_link)):
         link = painting_feats['image_link'][i]
         name = str(painting_feats['id'][i]) + '.jpg'
-        url = 'viz/model1/thumbnails'
-        out = os.path.join(url, name)
+        out = os.path.join(picdir, name)
         urllib.request.urlretrieve(link, out)
         
         piece = Image.open(out)
