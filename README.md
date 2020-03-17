@@ -1,5 +1,5 @@
 # QuantifyingStyle
-Replication and Improvement Project for UC San Diego
+Capstone Part 1: Replication and Assessment Project for UC San Diego Data Science
 
 Can we prove or disprove the artistic judgement of a human viewer numerically, and if so, what are the implications on the world of art? How will classification of artistic genres, movements, and eras change when granted a more rigid, quantitative definition? And if we can't conclusively classify artistic style, what attribute are humans given to work with that the model isn't?
 
